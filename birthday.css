@@ -1,0 +1,89 @@
+html{
+  background-color: rgba(250,150,100,.25);
+  border:2px dashed #d1e0e0;
+}
+.container{
+  background-color:  rgba(50,50,150,.25);
+  width:60%;
+  height:60%;
+  border:5px double black;
+  margin-left:auto;
+  margin-right: auto;
+  padding: 5px 5px;
+}
+
+.header-logo{
+  color:black;
+  text-align: center;
+  font-size: 60px;
+  font-style:bold;
+  font-family: : tahoma , serif;
+  border-bottom: 1px dashed grey;
+
+
+}
+.content-area{
+     border-top:4px ridge;
+     border-bottom:4px ridge;
+
+}
+img{
+  width:23%;
+  height:auto;
+  border:2px solid pink;
+  float:right;
+}
+.note{
+  width:85%;
+}
+.dob{
+
+    padding-top:5px;
+    padding-bottom:5px;
+    text-align: center;
+    font-size: 40px;
+    font-family:tahoma,sans-serif;
+    margin-left:auto;
+    margin-right: auto;
+    margin-top: auto;
+    margin-bottom: auto;
+  }
+.contactus{
+  font-size: 7px;
+  text-align: left;
+  font-style: italic;
+  padding:10px;
+}
+label{ color:brown;
+      font-size: 20px;
+      background-color: #ffffb3;
+      padding-right:10px;
+}
+
+.none{
+  font-size: 20px;
+ margin-right: 2%;
+ margin-top: 2%;
+  box-sizing: border-box;
+  display: block;
+  text-align: center;
+  font-family: [TIMES NOW],sans-serif;
+  text-decoration: none;
+  border:1px dashed grey;
+  font-style: normal;
+  padding:10px 20px;
+  color:rgba(200,50,50,.75);
+  background-color: rgba(100,150, 200, 0.15);
+
+
+}
+.danger{
+
+    text-align:left;
+    background-color: white;
+    margin-bottom: none;
+    border:1px solid black;
+    color:black;
+    height:70%;
+    width:50%;
+}

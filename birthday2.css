@@ -1,0 +1,124 @@
+html{
+  background-color:  white;
+  border:2px dashed #d1e0e0;
+}
+body{
+  background-color:  #ffe6ff;
+  padding:60px 60px;
+  border: 4px double black;
+  box-sizing: border-box;
+
+
+}
+.container{
+   width:940px;
+  text-align: center;
+  padding:10px 10px;
+  margin-left: auto;
+  margin-right: auto;
+
+}
+header{
+  background-color: rgba(50,200,100,.25);
+  padding:5px 10px;
+  border:2px groove #e6e6ff;
+}
+.header-logo{
+  font-size: 40px;
+  font-family: : tahoma , serif;
+  font-style: bold;
+  border-bottom: 2px dashed grey;
+  color: #4d004d;
+}
+.begin{
+  text-align: left;
+  font-size: 20px;
+
+  color:#00004d;
+}
+/*form-styles*/
+form{
+  background-color: #blue;
+
+  padding:20px 20px;
+}
+input[type="text"]
+{
+  width:100%;
+  box-sizing: border-box;
+  display: block;
+  height:40px;
+  padding:0 10px;
+  background-color: #ffffe6;
+  border:2px double grey;
+  font-size:100%
+  font-family:tahoma,sans-serif;
+  margin-bottom: 10px;
+
+}
+input[type="text"]:focus{
+  border:2px solid  #9fdfbf;
+  box-shadow: inset 2px 2px 2px rgba(0,0,0,.25);
+}
+.select{
+  background-color: #ffe6ff;
+  padding:10px 10px 5px 10px;
+}
+
+.thisthat{
+  margin-top: 10px;
+  margin-bottom: 10px;
+  background-color: #ffffe6;
+  padding:5px 5px;
+}
+textarea:focus{
+
+    border:2px solid  #9fdfbf;
+    box-shadow: inset 2px 2px 2px rgba(0,0,0,.25);
+
+}
+textarea{
+  width:100%;
+  box-sizing: border-box;
+  display: block;
+  height:50px;
+  padding:5px 10px;
+  background-color: #ffffe6;
+  border:2px double grey;
+  margin-bottom: 10px;
+}
+input[type="submit"]{
+  text-align: centre;
+  font-size: 20px;
+  width:10%;
+ padding:5px 5px;
+  bakcground-color:grey;
+  color:black;
+  border:1px double grey;
+  box-sizing: border-box;
+  display: block;
+  font-family: tahoma,sans-serif;
+}
+input[type="submit"]:hover,
+input[type="submit"]:focus{
+  background-color: grey;
+  border:2px solid #9fdfbf;
+}
+
+.none{
+  font-size: 20px;
+ margin-right: 2%;
+ margin-top: 2%;
+  box-sizing: border-box;
+  display: block;
+  text-align: center;
+  font-family: [TIMES NOW],sans-serif;
+  text-decoration: none;
+  border:1px dashed grey;
+  font-style: normal;
+  padding:10px 20px;
+  color:rgba(200,50,50,.75);
+  background-color: rgba(100,150, 200, 0.15);
+
+
+}

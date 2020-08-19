@@ -1,0 +1,56 @@
+html{
+  background-color:white;
+    border: 4px double black;
+}
+body{
+  background-color:rgba(150,50,100,.25);
+    padding:60px 60px;
+
+      border: 2px solid grey;
+
+}
+h1{
+  text-align: center;
+  border-bottom: 2px ridge white;
+}
+img{
+  border:3px solid black;
+  width:80%;
+  height:60%;
+
+}
+.none{
+  font-size: 20px;
+ margin-right: 2%;
+ margin-top: 2%;
+  box-sizing: border-box;
+  display: block;
+text-align: center;
+  font-family: [TIMES NOW],sans-serif;
+  text-decoration: none;
+  border:1px dashed grey;
+  font-style: normal;
+  padding:10px 20px;
+  color:rgba(200,50,50,.75);
+  background-color: rgba(0,255, 200, 0.15);
+
+
+}
+footer{
+  text-align: center;
+  background-color: white;
+  margin-bottom: none;
+  border:1px solid black;
+
+  height:5%;
+  width:5%;
+}
+
+.container{
+   width:940px;
+  text-align: center;
+  padding:10px 10px;
+  margin-left: auto;
+  margin-right: auto;
+
+}
