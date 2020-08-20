@@ -72,8 +72,8 @@ label{ color:brown;
   border:1px dashed grey;
   font-style: normal;
   padding:10px 20px;
-  color:rgba(200,50,50,.75);
-  background-color: rgba(100,150, 200, 0.15);
+  color:black;
+  background-color: rgba(50,150, 250, 0.15);
 
 
 }
